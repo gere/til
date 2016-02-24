@@ -14,3 +14,9 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 
 ### C
 - [Installing Linux headers for kernel development](c/installing-linux-headers-for-kernel-development.md)
+installing-linux-headers-for-kernel-development
+
+---
+
+### GitHub
+- [Changing repository remote url for SSH](github/changing-repository-remote-url-for-ssh.md)
