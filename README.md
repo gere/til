@@ -9,6 +9,7 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 ### Categories
 
 [C](#c)
+[GitHub](#github)
 
 ---
 
