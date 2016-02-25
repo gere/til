@@ -11,9 +11,6 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 * [C](#c)
 * [GitHub](#github)
 
-
-
-
 ---
 
 ### C
