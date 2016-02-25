@@ -10,6 +10,7 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 
 * [C](#c)
 * [GitHub](#github)
+* [PrestaShop](#prestashop)
 
 
 
@@ -24,3 +25,8 @@ installing-linux-headers-for-kernel-development
 
 ### GitHub
 - [Changing repository remote url for SSH](github/changing-repository-remote-url-for-ssh.md)
+
+---
+
+### PrestaShop
+- [Temp table is full error](prestashop/temp-table-is-full-error.md)
