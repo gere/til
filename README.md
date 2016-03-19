@@ -18,6 +18,7 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 - [Installing Linux headers for kernel development](c/installing-linux-headers-for-kernel-development.md)
 installing-linux-headers-for-kernel-development
 - [Install glibc debug info for Valgrind](c/install-glibc-debug-info-valgrind.md)
+- [Bitshift operations with long int](c/bitshift-operations-with-long-int.md)
 
 ---
 
