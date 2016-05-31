@@ -8,9 +8,15 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 
 ### Categories
 
+* [Bash](#bash)
 * [C](#c)
 * [GitHub](#github)
 * [PrestaShop](#prestashop)
+
+---
+
+### Bash
+- [Compress and extract files with tar](bash/compress-extract-files-tar-gz.md)
 
 ---
 
