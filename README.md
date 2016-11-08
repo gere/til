@@ -17,6 +17,7 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 
 ### Bash
 - [Compress and extract files with tar](bash/compress-extract-files-tar-gz.md)
+- [Set appropriate permissions for files and directory](bash/set-file-directory-permissions.md)
 
 ---
 
