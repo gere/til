@@ -8,3 +8,5 @@ $ arp -a
 ```
 
 The -b switch may be neccessary on a Linux machine.
+
+[Source](http://stackoverflow.com/questions/13669585/how-to-get-a-list-of-all-valid-ip-address-in-a-local-network/15351073#15351073)

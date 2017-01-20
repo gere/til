@@ -11,6 +11,7 @@ A Collection of random stuff I learn everyday. Mainly technical, but not only th
 * [Bash](#bash)
 * [C](#c)
 * [GitHub](#github)
+* [Networking](#networking)
 * [PrestaShop](#prestashop)
 
 ---
@@ -30,7 +31,7 @@ installing-linux-headers-for-kernel-development
 ---
 
 ### GitHub
-- [Changing repository remote url for SSH](github/changing-repository-remote-url-for-ssh.md)
+- [Changing the remote url of a repository for SSH](github/changing-repository-remote-url-for-ssh.md)
 
 ---
 
