@@ -34,5 +34,10 @@ installing-linux-headers-for-kernel-development
 
 ---
 
+### Networking
+- [Discover IPs in a LAN](networking/discover-ips-in-a-lan.md)
+
+---
+
 ### PrestaShop
 - [Temp table is full error](prestashop/temp-table-is-full-error.md)
